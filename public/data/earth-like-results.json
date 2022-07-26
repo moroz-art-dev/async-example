@@ -1,0 +1,11 @@
+{
+	"query": "earth-like planets",
+	"results": [
+		"http://localhost:3000/data/planets/Kepler-22b.json",
+		"http://localhost:3000/data/planets/Kepler-62f.json",
+		"http://localhost:3000/data/planets/Kepler-69c.json",
+		"http://localhost:3000/data/planets/Kepler-186f.json",
+		"http://localhost:3000/data/planets/Kepler-452b.json",
+		"http://localhost:3000/data/planets/GJ667Cc.json"
+	]
+}
